@@ -1,7 +1,7 @@
 integrations:
   nick-test-dataset-1:
     type: dataset
-    ref: paperspace/dsovkohenij7fsx:tr88vgj
+    ref: paperspace/dsovkohenij7fsx:9ydefy2
   poplar-executables-hf:
     type: dataset
     ref: paperspace/dslk3lcspbr0899:kxngv3e
